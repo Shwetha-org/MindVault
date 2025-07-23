@@ -1,0 +1,16 @@
+*.bin
+*.elf
+*.hex
+*.eep
+*.d
+*.dep
+*.map
+*.sym
+*.o
+*.a
+*.dSYM/
+build/
+.pio/
+__pycache__/
+.DS_Store
+*.swp
