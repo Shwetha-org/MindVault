@@ -12,3 +12,9 @@ This log documents the progress made during the development of this project, inc
   3. Journaling & Mood Selection 
   4. Psychology Layer + UX Polish
 - Created roadmap for the next 3 weeks!
+
+## 📅 July 25, 2025 – Project Planning Part 2
+- Separated the feature list into 2 :
+  1. The Basics
+  2. The Highlight
+- Decided what features will be included in the prototype of THE MINDVAULT.
