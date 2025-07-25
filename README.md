@@ -3,14 +3,23 @@ A secure, embedded journaling device that blends cybersecurity, embedded systems
 
 📍 This project is currently in development
 
-STAY TUNED FOR THE FOLLOWING FEATURES:
-1. AES Encryption
-2. Mood Tracking
-3. Personal Journaling Prompts
+##Features
+
+### The Basics
+- AES-256 Encrypted Journal Entires
+- Mood Selection
+- Minimal Embedded UI
+- Automatic Date & Time stamping
+- Tamper detection with Auto Key Wipe
+
+### The HIGHLIGHT : Offline Zero-Trust Emotion Indexing
+- Search entries by emotion without decrypting all data.
+- Uses HMAC-tagged metadata to preserve privacy even during search.
+
 
 BUILT WITH : 
 1. ESP32
-2. OLED Display
+2. OLED Display / LCD Display
 3. Secure File Storage
 
 📝 A detailed README.md file will be written once the final direction and features are locked!
